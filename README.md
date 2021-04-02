@@ -1,4 +1,6 @@
-# avatar
+# orquestador-vue
+
+Aplicación sencilla que "orquesta" tres servicios web.
 
 ## Project setup
 ```
